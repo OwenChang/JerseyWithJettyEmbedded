@@ -28,9 +28,11 @@ Test
 ====
 Use the following command to test the rest service
 
->$ curl http://localhost:8089/hello
+>$ `curl http://localhost:8089/hello`
+>
 >{"greetText":"Hello","name":"World"}
 
 
->$ curl http://localhost:8089/hello/owen
+>$ `curl http://localhost:8089/hello/owen`
+>
 >{"greetText":"Hello","name":"owen"}
