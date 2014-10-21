@@ -14,6 +14,12 @@ Run
 ===
 Run the Main class as a Java Application in eclipse
 
+> 2014-10-20 19:31:53.673:INFO:oejs.Server:jetty-8.1.9.v20130131
+>
+>2014-10-20 19:31:53.908:INFO:oejs.AbstractConnector:Started SelectChannelConnector@0.0.0.0:8089
+
+The above output indicate that the server is running now.
+
 Test
 ====
 Use the following command to test the rest service
