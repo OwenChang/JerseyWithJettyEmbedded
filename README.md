@@ -44,6 +44,7 @@ This demo is running on JDK 1.6, so we use Jetty 8 instead of Jetty 9 and use JA
 + Jackson 1.9.2
 + Asm 3.3.1
 
+```xml
 <dependency>
 	<groupId>javax.servlet</groupId>
 	<artifactId>javax.servlet-api</artifactId>
@@ -61,3 +62,4 @@ This demo is running on JDK 1.6, so we use Jetty 8 instead of Jetty 9 and use JA
 	<artifactId>jersey-bundle</artifactId>
 	<version>1.18</version>
 </dependency>
+```
